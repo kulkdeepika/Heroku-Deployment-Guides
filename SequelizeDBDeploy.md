@@ -4,7 +4,7 @@
 
 * Below is a written guide on deploying Sequelize Projects utilizing JawsDB for use on Heroku.
 
-[Deployment Guide](./Guides/SequelizeHerokuDeploymentProcess.md).
+[Deployment Guide](./SequelizeHerokuDeploymentProcess.md).
 
 * Below is a step by step video guide walking through how to do the same deployment.
 
